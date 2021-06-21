@@ -29,12 +29,9 @@ Check out the GitHub repository:
 
 <div>
   <p>
-    <a href="https://github.com/laxmena/100MLProjects">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=laxmena&repo=100MLProjects&show_owner=True" alt="GitHub Stats" />
-    </a>
-    <a href="https://github.com/laxmena/AndroidApps">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=laxmena&repo=AndroidApps&show_owner=True" alt="GitHub Stats" />
-    </a>
+    <a href="https://github.com/vinitanandode/to-do">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=vinitanandode&repo=to-do&show_owner=True" alt="GitHub Stats" />
+    </a>        
   </p>
 </div>
 
@@ -62,4 +59,4 @@ I'm a Graduate Student living in Chicago, IL. Outside Tech, I love to read, enjo
 
 <h2>📫 How to reach me:</h2>
 
-<a href="mailto:WriteTo@laxmena.com">![WriteTo@laxmena.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> <a href="https://www.linkedin.com/in/lakshmanan-meiyappan/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+<a href="mailto:vinita.nandode@gmail.com">![vinita.nandode@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> <a href="https://www.linkedin.com/in/vinita-nandode">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>4
