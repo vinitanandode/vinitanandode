@@ -1,6 +1,4 @@
 ![Vinita Nandode Banner Image](./vinitabanner.png)
-<!-- <h2 align='center'>Vinita Nandode @ vinitanandode</h2>
-<p align='center'><b>Technical Lead</b></p> -->
 
 <h2>Hey! 👋</h2>
 
