@@ -1,6 +1,6 @@
-![Lakshmanan Meiyappan Banner Image](./banner.png)
-<!-- <h2 align='center'>Lakshmanan Meiyappan @ Laxmena</h2>
-<p align='center'><b>Graduate Student at University of Illinois at Chicago</b></p> -->
+![Vinita Nandode Banner Image](./vinitabanner.png)
+<!-- <h2 align='center'>Vinita Nandode @ vinitanandode</h2>
+<p align='center'><b>Technical Lead</b></p> -->
 
 <h2>Hey! 👋</h2>
 
@@ -19,11 +19,6 @@ __Front End Javascript Frameworks__
 
 
 <h2>Currently working on:</h2>
-<h4>#100MLProjects</h4>
-
-__100MLProjects__ is a challenge that I created for myself to get proficient in Machine Learning and Deep Learning by building 100 Projects with increasing complexity, over a period of two years. 
-
-I document my experience throughout this process, and you can find them on my [Blog](https://www.laxmena.com/category/100-ml-projects/).
 
 Check out the GitHub repository:
 
@@ -51,12 +46,11 @@ Check out the GitHub repository:
 
 <h2> About Vinita:</h2>
 
-I'm a Graduate Student living in Chicago, IL. Outside Tech, I love to read, enjoy music and explore nature outdoors. If you are around Chicago, drop an email and let's catch-up over Coffee!
+Passionate, responsible and committed Lead Engineer with 10+ years of experience in designing, implementing & adapting technically sophisticated online web applications using Microsoft Technologies. Proficient at implementing core background development tasks including REST API Development & Website Maintenance. Executed Agile & SAFe methodologies of software development to lead teams & deliver high quality products within stipulated deadlines with excellent leadership & organizational abilities to build professional relationships with staff & clients.
  
-- Check out my Blog: [https://laxmena.com](https://laxmena.com)
-- Know more about me: [About Laxmena](https://laxmena.com/pages/about)
-- Write to me: [WriteTo@laxmena.com](mailto:writeto@laxmena.com)
+- Know more about me: [About Vinita](https://vinitanandode.wixsite.com/vinita-nandode)
+- Write to me: [vinita.nandode@gmail.com](mailto:vinita.nandode@gmail.com)
 
 <h2>📫 How to reach me:</h2>
 
-<a href="mailto:vinita.nandode@gmail.com">![vinita.nandode@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> <a href="https://www.linkedin.com/in/vinita-nandode">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>4
+<a href="mailto:vinita.nandode@gmail.com">![vinita.nandode@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> <a href="https://www.linkedin.com/in/vinita-nandode">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
