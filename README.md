@@ -6,19 +6,20 @@
 
 [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=vinitanandode)](https://github.com/vinitanandode) [![GitHub followers](https://img.shields.io/github/followers/vinitanandode.svg?style=social&label=Follow)](https://github.com/vinitanandode?tab=followers)
 
-I'm Lakshmanan Meiyappan! 
-- <i>Currently:</i> MS CS Student at University of Illinois at Chicago. 
-- <i>Previously:</i> Full Stack Software Engineer at Zoho Corporation.
+I'm Vinita Nandode! 
+- <i>Currently:</i> Working in Larsen & Toubro Infotech as a Technical Lead and Scrum Master.
+- <i>Previously:</i> Was Senior Software Engineer in Cognizant Technology Solutions.
 
-<h2>💻 I'm Currently Learning</h2>
+<h2>I'm Currently Learning</h2>
 
-__University of Illinois at Chicago__
-- CS412 Introduction to Machine Learning
-- CS418 Introduction to Data Science
-- CS478 Software Development for Mobile Platforms
+__Front End Javascript Frameworks__
+- CSS, JavaScripts and HTML
+- Concepts in Reacts 
+- Redux and Styled components
+
 
 <h2>Currently working on:</h2>
-<h4>#100MLProjects 💯</h4>
+<h4>#100MLProjects</h4>
 
 __100MLProjects__ is a challenge that I created for myself to get proficient in Machine Learning and Deep Learning by building 100 Projects with increasing complexity, over a period of two years. 
 
@@ -47,13 +48,11 @@ Check out the GitHub repository:
   
   <p align="center">
   <b><em>Overall GitHub Stats:</em></b> <br/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=laxmena" alt="GitHub Stats" /> <br/><br/>
-  <b><em>My Programming activity (Last 7 days):</em></b> <br/>
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=laxmena" alt="WakaTime" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=vinitanandode" alt="GitHub Stats" /> <br/><br/>
   </p>
 </div>
 
-<h2> About Laxmena⚡:</h2>
+<h2> About Vinita:</h2>
 
 I'm a Graduate Student living in Chicago, IL. Outside Tech, I love to read, enjoy music and explore nature outdoors. If you are around Chicago, drop an email and let's catch-up over Coffee!
  
