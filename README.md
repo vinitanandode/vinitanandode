@@ -31,13 +31,13 @@ Check out the GitHub repository:
 <h2>👀 Stats</h2>
 
 <div>  
-  <p align="left">
+  <p align="center">
   <b><em>Overall GitHub Stats:</em></b> <br/>
     <img src="https://github-readme-stats.vercel.app/api?username=vinitanandode" alt="GitHub Stats" /> <br/><br/>
   </p>
 </div>
 <div>  
-  <p align="right">
+  <p align="center">
   <b><em>Language Stats:</em></b> <br/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinitanandode&langs_count=8" alt="GitHub Stats" /> <br/><br/>
   </p>
