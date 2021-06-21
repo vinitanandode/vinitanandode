@@ -4,7 +4,7 @@
 
 <h2>Hey! 👋</h2>
 
-[![Visitor](https://visitor-badge.laobi.icu/badge?page_id=laxmena.laxmena)](https://github.com/laxmena) [![GitHub followers](https://img.shields.io/github/followers/laxmena.svg?style=social&label=Follow)](https://github.com/laxmena?tab=followers)
+[![Visitor](https://visitor-badge.laobi.icu/badge?page_id=vinitanandode)](https://github.com/vinitanandode) [![GitHub followers](https://img.shields.io/github/followers/vinitanandode.svg?style=social&label=Follow)](https://github.com/vinitanandode?tab=followers)
 
 I'm Lakshmanan Meiyappan! 
 - <i>Currently:</i> MS CS Student at University of Illinois at Chicago. 
