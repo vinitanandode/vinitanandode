@@ -75,6 +75,14 @@ Check out the GitHub repository:
   </p>
 </div>
 
+<div>
+  <p>
+    <a href="https://github.com/vinitanandode/linkedin-clone">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=vinitanandode&repo=linkedin-clone&show_owner=True" alt="GitHub Stats" />
+    </a>        
+  </p>
+</div>
+
 <h2>👀 Stats</h2>
 
 <div>  
