@@ -83,6 +83,14 @@ Check out the GitHub repository:
   </p>
 </div>
 
+<div>
+  <p>
+    <a href="https://github.com/vinitanandode/my-dashboard">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=vinitanandode&repo=my-dashboard&show_owner=True" alt="GitHub Stats" />
+    </a>        
+  </p>
+</div>
+
 <h2>👀 Stats</h2>
 
 <div>  
